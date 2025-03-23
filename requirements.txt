@@ -1,0 +1,10 @@
+tensorflow==2.19.0
+numpy
+pandas
+matplotlib
+tensorboard
+scikit-learn
+streamlit
+ipykernel
+scikeras
+python-dotenv
